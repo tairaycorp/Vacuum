@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e2b88d9c6d7004da8a1f9e80d86a9b, type: 3}
+  m_Name: PlanetaryOnFireEvent
+  m_EditorClassIdentifier: 
+  priority: 1
+  dmg: 0
+  targetVelocity: 0
+  deathTimer: 100
+  myProjectile: {fileID: 11400000, guid: 9ed48a5d1810d0846b8818cefb93f1cd, type: 2}
+  prefab: {fileID: 3780712523599762759, guid: b1a6e07c7a900644eb57c268c6d53a90, type: 3}
+  moveType: {fileID: 11400000, guid: 6dc8a556f3c380a47bcfe07f6fe77f39, type: 2}
+  amtOfProj: 1
+  myProjectileChild: {fileID: 11400000, guid: 9ed48a5d1810d0846b8818cefb93f1cd, type: 2}
+  moveTypeChild: {fileID: 11400000, guid: c78422082d34ac34a88c0942f228678d, type: 2}

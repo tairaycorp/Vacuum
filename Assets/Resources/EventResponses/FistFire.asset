@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40092e19381bce344b67bc981dd4efec, type: 3}
+  m_Name: FistFire
+  m_EditorClassIdentifier: 
+  duration: 0
+  priority: 0
+  dmg: 2
+  targetVelocity: 3
+  deathTimer: 0
+  myProjectile: {fileID: 11400000, guid: 1b6047b0f1200844f83ec9cb467fe969, type: 2}
+  prefab: {fileID: 3780712523599762759, guid: b1a6e07c7a900644eb57c268c6d53a90, type: 3}
+  moveType: {fileID: 11400000, guid: edb912dc22872874dbf348a26ae9f87a, type: 2}
+  amtOfProj: 1

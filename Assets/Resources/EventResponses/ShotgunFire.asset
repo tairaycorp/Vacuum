@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40092e19381bce344b67bc981dd4efec, type: 3}
+  m_Name: ShotgunFire
+  m_EditorClassIdentifier: 
+  priority: 0
+  dmg: 10
+  targetVelocity: 0
+  deathTimer: 0
+  myProjectile: {fileID: 11400000, guid: 4ddb69b30e3a63d458c15722da1e476a, type: 2}
+  prefab: {fileID: 3780712523599762759, guid: b1a6e07c7a900644eb57c268c6d53a90, type: 3}
+  moveType: {fileID: 11400000, guid: 5e731b5c7e97c13499f50a7933152b39, type: 2}
+  amtOfProj: 5

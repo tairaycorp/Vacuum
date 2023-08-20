@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958f003b9e40bb54b8cb2f9f26a62a4e, type: 3}
+  m_Name: Western
+  m_EditorClassIdentifier: 
+  e:
+  - {fileID: 11400000, guid: 0734e50db245c2c4bb6d7595cb676b67, type: 2}
+  - {fileID: 11400000, guid: 61a42d051de936745952986d9e96b9e9, type: 2}
+  - {fileID: 11400000, guid: 5842517288e5b7943a9267a94bd37482, type: 2}
+  - {fileID: 11400000, guid: 7e91f8801a90461488d2248a2c904ac9, type: 2}
+  - {fileID: 11400000, guid: f99f928fc6c68d04db7d753635e32ce7, type: 2}

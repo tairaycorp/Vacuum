@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5626b5cbb18210c45aad5b6d9bf7e50c, type: 3}
+  m_Name: BabyBug
+  m_EditorClassIdentifier: 
+  health: 15
+  moveType: {fileID: 11400000, guid: eeb25abd627e0fd488071d514d4a3230, type: 2}
+  weapon: {fileID: 11400000, guid: 7050fc9c3fb874d4f90da35fd8a5ed73, type: 2}

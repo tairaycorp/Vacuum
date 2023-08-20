@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958f003b9e40bb54b8cb2f9f26a62a4e, type: 3}
+  m_Name: TheFist
+  m_EditorClassIdentifier: 
+  e:
+  - {fileID: 11400000, guid: b693a37ee7a871f488a392499cd94d19, type: 2}
+  - {fileID: 11400000, guid: 675b6e6005c80854fa30881defb39cb6, type: 2}
+  - {fileID: 11400000, guid: 2225d695e6c7a064394a4ebf3ceecef5, type: 2}
+  - {fileID: 11400000, guid: 9d40c397d0298fd4c9b23307993f7746, type: 2}
